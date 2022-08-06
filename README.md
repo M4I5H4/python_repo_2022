@@ -1,2 +1,2 @@
 # python_repo_2022
-place to learn pythong
+place to learn python
